@@ -32,7 +32,7 @@ int main(){
 		}
 
 		if(sigma==2*num)
-			cout<<num<<" perfect"<<endl;
+			cout<<num<<" perfect"<<endl;//neighter
 		else if(sigma>2*num)
 			cout<<num<< " abundant by "<<sigma-2*num<<endl;
 		else if(sigma<2*num)
