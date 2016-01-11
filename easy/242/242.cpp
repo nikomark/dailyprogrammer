@@ -22,6 +22,6 @@ int main(int argc, char *argv[]){
 	}
 
 	cout<<week<<endl;
-	
+
 	return 0;
 }
