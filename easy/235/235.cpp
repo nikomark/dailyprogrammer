@@ -68,6 +68,4 @@ int main(){
 		/*cout<<factorize_sum(par[i].first)<<endl;
 		cout<<factorize_sum(par[i].second)<<endl;*/
 	}
-
-
 } 
